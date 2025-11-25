@@ -80,7 +80,7 @@ chmod 755 /home/banner/jenkins
 exit
 ```
 
-!
+![image](https://github.com/abhijitray7810/Jenkins-Pratices-100/blob/477d552f858a7f68496b01805e8912e2d0a540fe/Day%2007%3A%20Jenkins%20Slave%20Nodes/Screenshot%202025-11-26%20004113.png)
 
 #### 2. Generate SSH Keys (if not already available)
 On the Jenkins server or from your control machine:
