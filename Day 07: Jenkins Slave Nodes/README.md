@@ -20,7 +20,7 @@ This guide provides step-by-step instructions for configuring Jenkins slave node
 | App Server 3 | App_server_3 | stapp03 | /home/banner/jenkins | banner |
 
 ## Step-by-Step Implementation
-
+![image](https://github.com/abhijitray7810/Jenkins-Pratices-100/blob/a6c3a7b527d01e36ec6e24bc1ee24569b404c413/Day%2007%3A%20Jenkins%20Slave%20Nodes/Screenshot%202025-11-26%20004050.png)
 ### Phase 1: Initial Setup and Plugin Installation
 
 #### 1. Access Jenkins UI
@@ -79,6 +79,8 @@ mkdir -p /home/banner/jenkins
 chmod 755 /home/banner/jenkins
 exit
 ```
+
+!
 
 #### 2. Generate SSH Keys (if not already available)
 On the Jenkins server or from your control machine:
