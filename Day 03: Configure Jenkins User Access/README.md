@@ -5,7 +5,7 @@ This guide provides step-by-step instructions for configuring user access and pe
 
 ## Prerequisites
 - Jenkins server installed and running
-- Admin access credentials
+- Admin access credentials 
 - Access to Jenkins UI via browser
 
 ## Admin Credentials
